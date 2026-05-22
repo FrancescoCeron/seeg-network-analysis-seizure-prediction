@@ -74,7 +74,7 @@ Implementation of:
 - Comparative analysis between connectivity representations
 - Classification models for seizure-state prediction
 
-![Feature Importance](images/features_importance.png)
+![Feature Importance](images/features_imporance.png)
 
 ---
 
