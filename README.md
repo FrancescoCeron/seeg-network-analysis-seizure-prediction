@@ -58,7 +58,7 @@ The project highlights how both pairwise and higher-order network structures can
 The implemented approaches showed consistency between community detection metrics and theoretical expectations regarding seizure-related connectivity dynamics.
 
 ## Authors
-Ceron Francesco
-Cavaliero Emanuele
-Bonin Giogia
-Contiero Filippo
+- Ceron Francesco
+- Cavaliero Emanuele
+- Bonin Giogia
+- Contiero Filippo
